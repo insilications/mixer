@@ -1,0 +1,8 @@
+*.img
+*.log
+*.iso
+update/
+local-yum/
+upstream-bundles/
+local-rpms/
+scripts/pre-install-clr-installer.yaml
