@@ -1,0 +1,10 @@
+# [TITLE]: perl-diff-so-fancy
+# [DESCRIPTION]: diff-so-fancy strives to make your diffs human readable instead of machine readable
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+include(perl-basic)
+include(git)
+include(libstdcpp)
+perl-diff-so-fancy

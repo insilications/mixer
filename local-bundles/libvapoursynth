@@ -1,0 +1,8 @@
+# [TITLE]: libvapoursynth
+# [DESCRIPTION]: A frameserver for the 21st century
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libvapoursynth
+libvapoursynth-dev
+libvapoursynth-staticdev

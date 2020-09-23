@@ -1,0 +1,6 @@
+# [TITLE]: ripgrep
+# [DESCRIPTION]: ripgrep recursively searches directories for a regex pattern
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+ripgrep

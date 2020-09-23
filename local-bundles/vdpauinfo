@@ -1,0 +1,8 @@
+# [TITLE]: vdpauinfo
+# [DESCRIPTION]: vdpauinfo
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libvdpau
+libvdpau-dev
+vdpauinfo

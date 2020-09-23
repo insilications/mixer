@@ -1,0 +1,9 @@
+# [TITLE]: lrzip
+# [DESCRIPTION]: Long Range ZIP or LZMA RZIP
+# [STATUS]: Active
+# [CAPABILITIES]: Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+# 
+lrzip
+lrzip-dev
+lrzip-staticdev

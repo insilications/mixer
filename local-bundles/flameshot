@@ -1,0 +1,7 @@
+# [TITLE]: flameshot
+# [DESCRIPTION]: Powerful yet simple to use screenshot software
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+include(qt-basic)
+flameshot

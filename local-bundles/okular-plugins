@@ -1,0 +1,19 @@
+# [TITLE]: okular-plugins
+# [DESCRIPTION]: 
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+ebook-tools
+ebook-tools-dev
+libzip
+libzip-dev
+libzip-staticdev
+djvulibre
+djvulibre-dev
+djvulibre-staticdev

@@ -1,0 +1,51 @@
+# [TITLE]: gnome-support
+# [DESCRIPTION]: 
+# [STATUS]: 
+# [CAPABILITIES]:
+# [MAINTAINER]: 
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+# [TITLE]: gnome-support
+# [DESCRIPTION]: Support
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+include(devpkg-base)
+include(devpkg-dbus)
+include(devpkg-dbus-glib)
+include(devpkg-glib)
+include(libglib)
+include(libX11client)
+include(p11-kit)
+cryptography
+dbus
+dbus-broker
+dbus-dev32
+dbus-extras
+dbus-glib-dev32
+dbus-python
+dbus-python-dev
+dconf
+dconf-dev
+GConf
+GConf-dev
+importlib_metadata
+jeepney
+keyring
+libsecret
+libsecret-dev
+qtkeychain
+qtkeychain-dev
+secretstorage
+gnome-keyring
+gnome-keyring-lib

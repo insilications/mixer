@@ -1,0 +1,12 @@
+# [TITLE]: libvidstab
+# [DESCRIPTION]: Vidstab is a video stabilization library which can be plugged-in with Ffmpeg and Transcode
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Multimedia and Graphics
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libasyncns
+orc-dev
+orc-staticdev
+libvidstab
+libvidstab-dev
+libvidstab-staticdev

@@ -1,0 +1,8 @@
+# [TITLE]: libxvid
+# [DESCRIPTION]: xvid codec
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libxvid
+libxvid-dev
+libxvid-staticdev

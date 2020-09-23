@@ -1,0 +1,8 @@
+# [TITLE]: libmp3lame
+# [DESCRIPTION]: LAME is a high quality MPEG Audio Layer III (MP3) encoder
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libmp3lame
+libmp3lame-dev
+libmp3lame-staticdev

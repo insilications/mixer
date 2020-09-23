@@ -1,0 +1,8 @@
+# [TITLE]: libbluray
+# [DESCRIPTION]: Library to access Blu-Ray disks
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libbluray
+libbluray-dev
+libbluray-staticdev

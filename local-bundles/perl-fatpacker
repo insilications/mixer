@@ -1,0 +1,9 @@
+# [TITLE]: perl-fatpacker
+# [DESCRIPTION]: pack your dependencies onto your script file.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+include(perl-basic)
+include(libstdcpp)
+perl-fatpacker

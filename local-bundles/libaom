@@ -1,0 +1,8 @@
+# [TITLE]: libaom
+# [DESCRIPTION]: Alliance for Open Media
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libaom
+libaom-dev
+libaom-staticdev

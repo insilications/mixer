@@ -1,0 +1,8 @@
+# [TITLE]: git-archive-all
+# [DESCRIPTION]: A python script wrapper for git-archive that archives a git superproject and its submodules
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+include(git)
+include(python-basic)
+git-archive-all

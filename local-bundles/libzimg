@@ -1,0 +1,8 @@
+# [TITLE]: libzimg
+# [DESCRIPTION]: Scaling, colorspace conversion, and dithering library
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libzimg
+libzimg-dev
+libzimg-staticdev

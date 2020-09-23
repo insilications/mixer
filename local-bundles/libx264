@@ -1,0 +1,8 @@
+# [TITLE]: libx264
+# [DESCRIPTION]: x264, the best and fastest H.264 encoder
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libx264
+libx264-dev
+libx264-staticdev

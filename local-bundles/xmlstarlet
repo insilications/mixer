@@ -1,0 +1,9 @@
+# [TITLE]: xmlstarlet
+# [DESCRIPTION]: xmlstarlet
+# [STATUS]: Active
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+xmlstarlet
+libxml2
+libxml2-dev
+libxml2-staticdev

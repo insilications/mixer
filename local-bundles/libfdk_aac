@@ -1,0 +1,8 @@
+# [TITLE]: libfdk_aac
+# [DESCRIPTION]: A standalone library of the Fraunhofer FDK AAC
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libfdk_aac
+libfdk_aac-dev
+libfdk_aac-staticdev

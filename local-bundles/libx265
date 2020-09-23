@@ -1,0 +1,8 @@
+# [TITLE]: libx265
+# [DESCRIPTION]: x265 HEVC Encoder
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+libx265
+libx265-dev
+libx265-staticdev
