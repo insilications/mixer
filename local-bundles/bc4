@@ -4,3 +4,5 @@
 # [CAPABILITIES]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
 bc4
+gtk+
+gtk+-dev

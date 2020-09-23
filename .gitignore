@@ -6,3 +6,5 @@ local-yum/
 upstream-bundles/
 local-rpms/
 scripts/pre-install-clr-installer.yaml
+Swupd_Root.pem
+private.pem
