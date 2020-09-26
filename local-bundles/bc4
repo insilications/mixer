@@ -6,3 +6,5 @@
 bc4
 gtk+
 gtk+-dev
+gtk+-lib
+gtk+-data
