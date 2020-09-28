@@ -5,6 +5,7 @@ Sphinx
 acl
 acpica-unix2
 alsa-utils
+aria2
 ark
 aspell
 aspell-de
@@ -20,6 +21,7 @@ bootloader
 c-basic
 c-basic-static
 c-extras-gcc8
+c-extras-gcc9
 cabextract
 calc
 ccache
@@ -335,6 +337,7 @@ fontforge
 fonts-basic
 fonts-clear
 fonttools
+fsearch
 fuse
 gdb
 geary
@@ -377,6 +380,7 @@ hardware-uefi
 htop
 httpd
 icdiff
+iftop
 inotify-tools
 insync
 intltool
@@ -461,6 +465,7 @@ mutt
 nasm
 nautilus
 net-tools
+nethogs
 network-basic
 network-basic-dev
 nfs-utils
@@ -491,6 +496,7 @@ pandoc
 parallel
 parted
 patch
+performance-tools
 perl-basic
 perl-basic-dev
 perl-diff-so-fancy
@@ -510,6 +516,7 @@ python-basic
 python-data-science
 python-extras
 python-qt
+python-testing
 python3-basic
 python3-basic-static
 python3-tcl
