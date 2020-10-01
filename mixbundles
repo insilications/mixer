@@ -497,6 +497,7 @@ pandoc
 parallel
 parted
 patch
+pax-utils
 performance-tools
 perl-basic
 perl-basic-dev

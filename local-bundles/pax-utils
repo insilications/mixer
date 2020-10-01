@@ -1,0 +1,9 @@
+# [TITLE]: pax-utils
+# [DESCRIPTION]: ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+pax-utils
+pax-utils-bin
+pax-utils-doc
+pax-utils-man
