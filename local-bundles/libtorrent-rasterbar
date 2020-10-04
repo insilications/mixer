@@ -1,0 +1,15 @@
+# [TITLE]: libtorrent-rasterbar
+# [DESCRIPTION]: 
+# [STATUS]: 
+# [CAPABILITIES]:
+# [MAINTAINER]: 
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+libtorrent-rasterbar
+libtorrent-rasterbar-dev
+libtorrent-rasterbar-staticdev
+libtorrent-rasterbar-data

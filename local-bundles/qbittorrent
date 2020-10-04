@@ -1,0 +1,11 @@
+# [TITLE]: qbittorrent
+# [DESCRIPTION]: A BitTorrent client in Qt
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)
+
+qbittorrent

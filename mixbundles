@@ -425,6 +425,7 @@ libfdk_aac
 libglib
 libmp3lame
 libstdcpp
+libtorrent-rasterbar
 libva-utils
 libva-vdpau-driver-chromium
 libvapoursynth
