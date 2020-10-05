@@ -3,12 +3,12 @@
 # [STATUS]: Active
 # [CAPABILITIES]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
-bc4
-bc4-bin
-bc4-data
-bc4-dev
-bc4-lib
-gtk+
 gtk+-dev
 gtk+-lib
 gtk+-data
+gtk+
+bc4-lib
+bc4-bin
+bc4-data
+bc4-dev
+bc4
