@@ -15,9 +15,11 @@ baobab
 bc
 bc4
 bcache-tools
+bcc
 binutils
 bison
 bootloader
+bpftrace
 c-basic
 c-basic-static
 c-extras-gcc8
@@ -385,6 +387,7 @@ iftop
 inotify-tools
 insync
 intltool
+iotop
 iperf
 iproute2
 iptables
@@ -551,6 +554,7 @@ sudo
 sysadmin-basic
 sysadmin-basic-dev
 syslinux
+sysstat
 systemd-networkd-autostart
 tcl-basic
 texinfo
