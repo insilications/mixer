@@ -7,5 +7,7 @@
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)
-
+ibtorrent-rasterbar
+ibtorrent-rasterbar-dev
+ibtorrent-rasterbar-staticdev
 qbittorrent
