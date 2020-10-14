@@ -540,6 +540,7 @@ runtime-libs-boost
 rust-basic
 samba
 scons
+sd
 sddm
 seahorse
 smartmontools
