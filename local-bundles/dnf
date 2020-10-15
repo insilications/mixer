@@ -15,15 +15,24 @@ rpm
 
 # my custom
 rpm-dev
+rpm-staticdev
 libsolv
 libsolv-dev
+libsolv-staticdev
 libmodulemd
 libmodulemd-dev
+libmodulemd-staticdev
 librepo
 librepo-dev
+librepo-staticdev
 libdnf
 libdnf-dev
+libdnf-staticdev
 dnf-plugins-core
+json-c-latest-dev
+json-c-latest-staticdev
+curl-dev
+curl-staticdev
 
 # main package
 dnf
