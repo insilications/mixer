@@ -6,33 +6,38 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
 include(pygobject)
 include(file)
 rpm
-# end of custom additions
 
 # my custom
-rpm-dev
-rpm-staticdev
-libsolv
-libsolv-dev
-libsolv-staticdev
+check
+curl-dev
+curl-staticdev
+dnf-plugins-core
+json-c-latest-dev
+json-c-latest-staticdev
+libcomps
+libcomps-dev
+libdnf
+libdnf-dev
+libdnf-staticdev
 libmodulemd
 libmodulemd-dev
 libmodulemd-staticdev
 librepo
 librepo-dev
 librepo-staticdev
-libdnf
-libdnf-dev
-libdnf-staticdev
-dnf-plugins-core
-json-c-latest-dev
-json-c-latest-staticdev
-curl-dev
-curl-staticdev
+libsolv
+libsolv-dev
+libsolv-staticdev
+nose
+rpm
+rpm-dev
+rpm-staticdev
+subunit
+subunit-dev
+subunit-staticdev
 
 # main package
 dnf
