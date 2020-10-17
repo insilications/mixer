@@ -8,13 +8,15 @@
 include(python3-basic)
 include(pygobject)
 include(file)
-rpm
 
 # my custom
 check
+check-dev
+check-staticdev
 curl-dev
 curl-staticdev
 dnf-plugins-core
+gengetopt
 json-c-latest-dev
 json-c-latest-staticdev
 libcomps
@@ -31,13 +33,22 @@ librepo-staticdev
 libsolv
 libsolv-dev
 libsolv-staticdev
+nghttp2
+nghttp2-dev
+nghttp2-staticdev
 nose
 rpm
 rpm-dev
 rpm-staticdev
+sqlite-autoconf
+sqlite-autoconf-dev
+sqlite-autoconf-staticdev
 subunit
 subunit-dev
 subunit-staticdev
+zchunk
+zchunk-dev
+zchunk-staticdev
 
 # main package
 dnf
