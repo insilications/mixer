@@ -467,6 +467,7 @@ mod_wsgi
 modules
 moonjit
 mpv
+mtr
 mutt
 nasm
 nautilus
