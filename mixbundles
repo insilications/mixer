@@ -28,6 +28,7 @@ cabextract
 calc
 ccache
 cheese
+clazy
 cloc
 cloud-api
 clr-installer

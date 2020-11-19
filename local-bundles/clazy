@@ -1,0 +1,7 @@
+# [TITLE]: clazy
+# [DESCRIPTION]: Qt-oriented static code analyzer based on the Clang framework
+# [STATUS]: Active
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+clazy
+clazy-dev
