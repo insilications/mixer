@@ -396,6 +396,8 @@ iptables
 jack2
 java-basic
 java-runtime
+java13-basic
+java13-runtime
 joe
 jq
 kate
