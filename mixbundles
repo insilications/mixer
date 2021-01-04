@@ -553,6 +553,8 @@ smartmontools
 socat
 spice-gtk
 spyder-ide
+sqlcipher
+sqlitebrowser
 sshfs
 storage-utils
 storage-utils-dev
