@@ -28,6 +28,7 @@ cabextract
 calc
 ccache
 cheese
+chessx
 clazy
 cloc
 cloud-api
@@ -556,6 +557,7 @@ spyder-ide
 sqlcipher
 sqlitebrowser
 sshfs
+stockfish
 storage-utils
 storage-utils-dev
 strace
