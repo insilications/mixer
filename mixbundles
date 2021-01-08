@@ -38,6 +38,7 @@ clr-network-troubleshooter
 clr-user-bundles
 containers-basic
 cpio
+critcl
 cryptography
 curl
 ddd
@@ -546,6 +547,7 @@ ruby-basic
 runtime-libs-boost
 rust-basic
 samba
+scidvspc
 scons
 sd
 sddm
@@ -569,10 +571,12 @@ syslinux
 sysstat
 systemd-networkd-autostart
 tcl-basic
+tcllib
 texinfo
 texlive
 the_silver_searcher
 thermal_daemon
+tkimg
 tmux
 totem
 transcoding-support
