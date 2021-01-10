@@ -452,6 +452,7 @@ linux-firmware-extras
 linux-firmware-wifi
 linux-tools
 llvm
+llvm11
 lm-sensors
 logrotate
 lrzip

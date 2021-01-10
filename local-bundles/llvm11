@@ -1,0 +1,15 @@
+# [TITLE]: llvm11
+# [DESCRIPTION]: LLVM/Clang modular and reusable compiler toolchain.
+# [STATUS]: Active
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+
+include(libstdcpp)
+
+llvm11
+llvm11-bin
+llvm11-data
+llvm11-dev
+llvm11-lib
+llvm11-libexec
+llvm11-staticdev
