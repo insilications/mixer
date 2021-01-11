@@ -7,6 +7,9 @@
 include(libstdcpp)
 
 llvm11
+llvm11-32
+llvm11-32-dev32
+llvm11-32-staticdev32
 llvm11-bin
 llvm11-data
 llvm11-dev
