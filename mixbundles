@@ -104,6 +104,7 @@ devpkg-fribidi
 devpkg-fuse
 devpkg-gcr
 devpkg-gdk-pixbuf
+devpkg-gdm
 devpkg-gflags
 devpkg-glew
 devpkg-glib
@@ -237,6 +238,7 @@ devpkg-mesa
 devpkg-metrics-discovery
 devpkg-mozjs60
 devpkg-mozjs68
+devpkg-mozjs78
 devpkg-multipath-tools
 devpkg-ncurses
 devpkg-ndctl
