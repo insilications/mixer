@@ -334,6 +334,7 @@ evolution
 fd
 fdupes
 ffmpeg
+ffmpegthumbs
 file
 file-roller
 filelight
@@ -489,6 +490,7 @@ nfs-utils
 nginx
 nodejs-basic
 nosync
+not-ffmpeg
 notmuch
 okteta
 okular

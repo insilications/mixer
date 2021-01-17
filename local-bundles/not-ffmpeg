@@ -1,0 +1,14 @@
+# [TITLE]: not-ffmpeg
+# [DESCRIPTION]: ffmpeg shared
+# [STATUS]: Active
+# [CAPABILITIES]: Developer Tools, Tools and Utilities
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+not-ffmpeg
+not-ffmpeg-dev
+not-ffmpeg-lib
