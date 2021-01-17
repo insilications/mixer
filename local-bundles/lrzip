@@ -5,5 +5,6 @@
 # [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
 # 
 lrzip
+lrzip-bin
 lrzip-dev
 lrzip-staticdev

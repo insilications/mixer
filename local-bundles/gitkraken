@@ -10,3 +10,6 @@
 # content chroots have format:     content(path)
 # un-exportable files have format: un-export(path)
 gitkraken
+gitkraken-bin
+gitkraken-data
+gitkraken-doc

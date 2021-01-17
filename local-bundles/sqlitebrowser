@@ -9,6 +9,8 @@
 # also-adds have format:           also-add(bundle)
 # content chroots have format:     content(path)
 # un-exportable files have format: un-export(path)
+include(sqlcipher)
 sqlitebrowser
-sqlitebrowser-dev
+sqlitebrowser-bin
+sqlitebrowser-data
 sqlitebrowser-staticdev
