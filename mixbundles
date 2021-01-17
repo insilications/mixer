@@ -392,6 +392,7 @@ htop
 httpd
 icdiff
 iftop
+include-what-you-use
 inotify-tools
 insync
 intltool

@@ -1,0 +1,14 @@
+# [TITLE]: include-what-you-use
+# [DESCRIPTION]: A tool for use with clang to analyze includes in C and C++ source files
+# [STATUS]: Active
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+include-what-you-use
+include-what-you-use-bin
+include-what-you-use-data
