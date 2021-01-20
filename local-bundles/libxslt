@@ -1,0 +1,19 @@
+# [TITLE]: libxslt
+# [DESCRIPTION]: XML stylesheet transformation library for converting XML into HTML.
+# [STATUS]: Active
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+libxslt
+libxslt-dev
+libxslt-bin
+libxslt-python
+libxslt-python3
+libxslt-lib
+libxslt-staticdev
