@@ -380,6 +380,7 @@ go-basic-dev
 gparted
 gpgme
 graphviz
+gsm
 gstreamer
 gtk-vnc
 gvim
@@ -423,6 +424,7 @@ konsole
 ksysguard
 kvm-host
 kvm-host-dev
+kwalletmanager
 l-smash
 less
 lib-imageformat

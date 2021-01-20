@@ -1,0 +1,15 @@
+# [TITLE]: kwalletmanager
+# [DESCRIPTION]:kwalletmanager
+# [STATUS]: Active
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Francisco Boni <boboniboni@gmail.com>
+# 
+# List packages one per line.
+# includes have format:            include(bundle)
+# also-adds have format:           also-add(bundle)
+# content chroots have format:     content(path)
+# un-exportable files have format: un-export(path)
+kwalletmanager
+kwalletmanager-bin
+kwalletmanager-data
+kwalletmanager-lib
