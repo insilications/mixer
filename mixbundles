@@ -458,6 +458,7 @@ linux-firmware
 linux-firmware-extras
 linux-firmware-wifi
 linux-tools
+litehtml
 llvm
 llvm11
 lm-sensors
