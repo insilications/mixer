@@ -551,6 +551,8 @@ qt-basic
 qt-basic-dev
 qt-core
 qt-creator
+qt5-dev
+qt5ct
 ripgrep
 rsync
 ruby-basic
