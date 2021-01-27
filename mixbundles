@@ -332,6 +332,7 @@ eog
 ethtool
 evince
 evolution
+fclones
 fd
 fdupes
 ffmpeg
@@ -617,6 +618,7 @@ xorriso
 xscreensaver
 xterm
 xz
+yadf
 yarn
 yasm
 zip
