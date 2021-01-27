@@ -12,3 +12,7 @@
 moonjit
 moonjit-dev
 moonjit-staticdev
+moonjit-man
+moonjit-data
+moonjit-bin
+moonjit-lib
