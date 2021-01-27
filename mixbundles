@@ -468,6 +468,7 @@ logrotate
 lrzip
 lsd
 lua-basic
+lua-static
 lynx
 lz4
 mail-utils
